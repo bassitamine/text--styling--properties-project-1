@@ -1,0 +1,23 @@
+.rosine{
+    color: brown;
+    font-size: 30px;font-family: cursive;
+    text-shadow: 12px 1px 1px green; 
+}
+.mrmartin{
+    color: green;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 10px 2px 43px black;
+}
+.morocco{
+    color: red;
+    font-size: 50px;
+    font-family: monospace;
+    text-shadow: 1px 20px 1px green;
+}
+h1{
+    text-decoration: underline
+    overline gold;
+    text-transform: lowercase;
+    
+}
